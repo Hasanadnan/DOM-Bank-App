@@ -1,8 +1,8 @@
 # DOM-Bank-App
 Login1:
-id:ha 
+user id:ha 
 password:1111
 
 Login2: 
-id:fm
+user id:fm
 password:2222
